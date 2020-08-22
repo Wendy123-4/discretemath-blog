@@ -6,7 +6,7 @@ feature-img: "assets/img/background.jpg"
 thumbnail: "assets/thumbnails/pexels/background.jpg"
 color: brown
 author: Wendy
-comments: true
+ 
 excerpt_separator: <!--more-->
 ---
 

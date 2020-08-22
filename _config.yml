@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/discretemath-blog"
+url: "https://wendy123-4.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: ALU Discrete Mathematics                                   # site's title

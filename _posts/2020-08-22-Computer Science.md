@@ -3,6 +3,7 @@ layout: post
 title: Computer Science
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
+comments: true
 
 ---
 # What is Computer Science?

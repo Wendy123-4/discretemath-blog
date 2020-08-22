@@ -7,7 +7,7 @@ title: ALU Discrete Mathematics                                   # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
-disqus_shortname:  wendy123-4-github-io-discretemath-blog-2
+
 
 # Header and footer text
 header_text: ALU  Discrete Mathematics Blog  # Change Blog header text

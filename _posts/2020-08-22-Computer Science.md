@@ -7,6 +7,11 @@ thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
 
 ---
+<article>
+  {% include what-is-computer-science.html %}
+
+</article>
+
 # What is Computer Science?
 
 When you mention Computer Science, usually the assumptions that follow are "a course for geeks", "it is difficult", "it's all about coding".

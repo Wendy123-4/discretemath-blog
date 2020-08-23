@@ -27,4 +27,4 @@ Despite the seemingly endless variety of applications and sub-disciplines, askin
 
 ## You can do anything once to set your mind to it so just do it!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tzl0ELY_TiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

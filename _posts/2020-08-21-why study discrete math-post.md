@@ -2,7 +2,7 @@
 layout: post
 
 title: Why study Discrete Mathematics?
-author: unknown
+author: wendy
 feature-img: "assets/img/background.jpg"
 thumbnail: "assets/thumbnails/pexels/background.jpg"
 color: brown

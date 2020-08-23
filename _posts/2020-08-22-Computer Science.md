@@ -2,11 +2,9 @@
 layout: post
 title: Computer Science
 author: unknown
-feature-img: "assets/img/pic1.jpg"
-thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
 ---
-
+{% include youtube_embed.html id="Tzl0ELY_TiM" %}  
 
 # What is Computer Science?
 
@@ -28,6 +26,5 @@ Despite the seemingly endless variety of applications and sub-disciplines, askin
 
 ## You can do anything once to set your mind to it so just do it!
 
-{% include youtube_embed.html id="Tzl0ELY_TiM" %}  
 
 

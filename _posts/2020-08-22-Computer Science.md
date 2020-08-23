@@ -7,10 +7,7 @@ thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
 
 ---
-<article>
-  {% include what-is-computer-science.html %}
 
-</article>
 
 # What is Computer Science?
 

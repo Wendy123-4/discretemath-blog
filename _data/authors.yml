@@ -1,4 +1,3 @@
-
 sylhare: # author-id
   name: Sylhare
   avatar: "https://avatars3.githubusercontent.com/u/20642750?s=460&v=4"
@@ -8,6 +7,6 @@ unknown:
   avatar:
   url:
 wendy:
-name: Wendy
-avatar:
-url:
+  name: Wendy
+  avatar:
+  url:

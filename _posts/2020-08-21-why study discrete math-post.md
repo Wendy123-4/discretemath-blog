@@ -5,7 +5,7 @@ title: Why study Discrete Mathematics?
 feature-img: "assets/img/background.jpg"
 thumbnail: "assets/thumbnails/pexels/background.jpg"
 color: brown
-author: Wendy
+author: wendy
 tags: [ math]
  
 excerpt_separator: <!--more-->

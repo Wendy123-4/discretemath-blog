@@ -5,7 +5,6 @@ author: unknown
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
-{% include youtube_embed.html id="Tzl0ELY_TiM" %}  
 ---
 
 
@@ -28,5 +27,7 @@ Though most strict specialization occurs at the graduate level, knowing exactly 
 Despite the seemingly endless variety of applications and sub-disciplines, asking important questions like, "What is computer science?" is a great way to begin a successful education and, ultimately, career.
 
 ## You can do anything once to set your mind to it so just do it!
+
+{% include youtube_embed.html id="Tzl0ELY_TiM" %}  
 
 

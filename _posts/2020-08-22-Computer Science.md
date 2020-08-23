@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Science
-author: unknown
+author: sylhare
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]

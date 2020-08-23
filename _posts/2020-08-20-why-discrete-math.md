@@ -3,7 +3,7 @@ layout: post
 title: Color Post
 tags: [Test, Color, Markdown]
 color: brown
-author: wendy
+author: sylhare
 excerpt_separator: <!--more-->
 ---
 

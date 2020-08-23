@@ -5,7 +5,6 @@ author: unknown
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ---
 # What is Computer Science?

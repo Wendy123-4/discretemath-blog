@@ -1,8 +1,5 @@
 <div class="posts">
-    <div class="columns is-multiline">
-    <div class="column is-12">
-        {% include pagination.html %}
-    </div>
+
     {% for post in paginator.posts %}
     <div class="post-teaser">
         {% if post.thumbnail %}
@@ -14,11 +11,15 @@
         {% endif %}
         <span>
           <header>
+           <div class="row">
+            <div class="col-md-4">
             <h1>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title }}
               </a>
             </h1>
+               </div>
+              </div>
             {% include post_info.html author=post.author date=post.date %}
           </header>
           {% if site.excerpt or site.theme_settings.excerpt %}

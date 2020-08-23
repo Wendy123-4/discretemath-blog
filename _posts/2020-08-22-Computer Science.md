@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Science
-author: wendy
+author: wendy123-4
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]

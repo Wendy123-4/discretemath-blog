@@ -1,4 +1,8 @@
 <div class="posts">
+    <div class="columns is-multiline">
+    <div class="column is-12">
+        {% include pagination.html %}
+    </div>
     {% for post in paginator.posts %}
     <div class="post-teaser">
         {% if post.thumbnail %}

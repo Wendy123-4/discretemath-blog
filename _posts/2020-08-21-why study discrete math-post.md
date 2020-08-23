@@ -6,6 +6,7 @@ feature-img: "assets/img/background.jpg"
 thumbnail: "assets/thumbnails/pexels/background.jpg"
 color: brown
 author: Wendy
+tags:  [discrete math,introduction]
  
 excerpt_separator: <!--more-->
 ---

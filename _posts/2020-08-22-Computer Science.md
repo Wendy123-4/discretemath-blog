@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Computer Science
+author: wendy
 feature-img: "assets/img/pic1.jpg"
 thumbnail: "assets/thumbnails/pexels/pic1.jpg"
 tags: [introduction]
-author: wendy
+
 
 ---
 # What is Computer Science?
